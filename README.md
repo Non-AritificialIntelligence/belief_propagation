@@ -12,6 +12,6 @@ A small project where the belief propagation is applied on a problem in statisti
 
 ## How to run
 
-1. Install 'numpy', 'matplotlib.pyplot', networkx and scipy
+1. Install 'numpy', 'matplotlib.pyplot', 'networkx' and 'scipy'
 2. run 'Disordered System.py'
 
