@@ -1,4 +1,4 @@
-# Belief Propagation: Cavity Method to Study Phace Transitions in Disorderd Systems
+# Belief Propagation: Cavity Method to Study Phase Transitions in Disorderd Systems
 
 ## Overview
 
